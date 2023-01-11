@@ -1,0 +1,15 @@
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\bin\Debug\net6.0\InterfaceExercise.exe
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\bin\Debug\net6.0\InterfaceExercise.deps.json
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\bin\Debug\net6.0\InterfaceExercise.runtimeconfig.json
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\bin\Debug\net6.0\InterfaceExercise.dll
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\bin\Debug\net6.0\InterfaceExercise.pdb
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.csproj.AssemblyReference.cache
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.AssemblyInfo.cs
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.dll
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\refint\InterfaceExercise.dll
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.pdb
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\InterfaceExercise.genruntimeconfig.cache
+C:\Users\stron\Desktop\repos2\InterfaceExercise\InterfaceExercise\obj\Debug\net6.0\ref\InterfaceExercise.dll
